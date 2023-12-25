@@ -1,4 +1,4 @@
-<img width="1080" height="200" alt = "coding" src="https://github.com/theMirmakhmudov/theMirmakhmudov/assets/13005168/16aaa1b6-573c-496e-924âb-2dcadf73dbc0"><br>
+<img width="1080" height="200" alt = "coding" src="https://github.com/theMirmakhmudov/theMirmakhmudov/assets/13005168/16aaa1b6-573c-496e-924âb-2dcadf73dbc0">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I%CA%BCm+Mirmakhmudov;Hello+%F0%9F%91%8B%2C+I%CA%BCm+Front-end+Developer+%F0%9F%92%BB;Hello+%F0%9F%91%8B%2C+I%CA%BCm+Back-end+Developer+%E2%9C%94%EF%B8%8F;Hello+%F0%9F%91%8B%2C+I%CA%BCm+Web+Developer+%F0%9F%8C%90" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Front-end & Bak-end Developer from Uzbekistan 🇺🇿</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theMirmakhmudov" alt="Mr.Mirmakhmudov" /></a> </p>
