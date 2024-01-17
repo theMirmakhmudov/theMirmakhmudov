@@ -31,6 +31,7 @@
 
 <p style="margin-top:50px;"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theMirmakhmudov&layout=compact" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themirmakhmudov&show_icons=true&locale=en&theme=tokyonight" alt="Mr.Mirmakhmudov" /></p>
+<p><img align="right" height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themirmakhmudov&&theme=tokyonight" alt="Mr.Mirmakhmudov" /></p>
 
 
