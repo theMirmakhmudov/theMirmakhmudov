@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Front-end & Bak-end Developer from Uzbekistan 🇺🇿</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theMirmakhmudov" alt="Mr.Mirmakhmudov" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" />
 
 
 - 🔭 I’m currently working on **No I study.**
@@ -40,12 +41,11 @@
 
 <hr/>
 
-<p align="center">
-     <a href="https://github.com/theMirmakhmudov/DjangoTemplate"><img width="278" src="https://denvercoder1-github-readmestats.vercel.app/api/pin/username=theMirmakhmudov&repo=DjangoTemplate&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/theMirmakhmudov/DjangoForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoForms
-&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/theMirmakhmudov/TODO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=TODO
-&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+## Top Respositorys
+  <p align="center">
+     <a href="https://github.com/theMirmakhmudov/DjangoForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoForms&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/theMirmakhmudov/DjangoTemplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoTemplate&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/theMirmakhmudov/TODO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=TODO&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 <hr />
 
