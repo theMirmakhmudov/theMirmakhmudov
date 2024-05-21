@@ -55,5 +55,6 @@
 <hr />
 
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theMirmakhmudov&theme=2077"></p>
-![Snake animation](https://github.com/theMirmakhmudov/theMirmakhmudov/tree/output/github-contribution-grid-snake.svg)
+<p align="center"><img src="https://github.com/theMirmakhmudov/theMirmakhmudov/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-animation"></p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
+
