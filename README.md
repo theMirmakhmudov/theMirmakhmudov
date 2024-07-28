@@ -23,7 +23,11 @@
 <a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
+
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/theMirmakhmudov.svg)](https://user-badge.committers.top/uzbekistan/theMirmakhmudov)
+
 <br><br>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,java,bootstrap,figma,linux,ubuntu,photoshop,nodejs,postgres,sqlite,react,django,fastapi,sass,python,linkedin,codepen,pycharm,visualstudio,gitlab,heroku,htmx,idea,jquery,npm,stackoverflow" />
