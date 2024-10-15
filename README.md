@@ -6,7 +6,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" />
 
 
-- 🔭 I’m currently working on **No I study.**
+- 🔭 I’m currently studying on **PDP School**
 
 - 🌱 I’m currently learning **Back-end Python Advanced**
 
