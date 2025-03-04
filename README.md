@@ -52,6 +52,10 @@
      <a href="https://github.com/theMirmakhmudov/DjangoForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoForms&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/theMirmakhmudov/DjangoTemplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoTemplate&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/theMirmakhmudov/TODO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=TODO&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/theMirmakhmudov/Metsenat-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=Metsenat-API&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/theMirmakhmudov/Doctor-Booking-API"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=Doctor-Booking-API&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+     <a href="https://github.com/theMirmakhmudov/TGUI-Apps"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=TGUI-Apps&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    
   </p>
 <br><br><br>
 
