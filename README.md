@@ -53,7 +53,7 @@
     <a href="https://github.com/theMirmakhmudov/DjangoTemplate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoTemplate&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/theMirmakhmudov/TODO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=TODO&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
-<hr />
+<br><br><br>
 
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theMirmakhmudov&theme=2077"></p>
 <p align="center"><img src="https://github.com/theMirmakhmudov/theMirmakhmudov/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-animation"></p>
