@@ -4,19 +4,17 @@
 
 ![image](https://github.com/user-attachments/assets/1c2d95e4-9604-4868-98bd-f560935718e9)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=Hello+%F0%9F%91%8B%2C+I'm+Abdulmajid;I'm+Web+Developer+%F0%9F%8C%90;I'm+Front-end+Developer+%F0%9F%92%BB;I'm+Back-end+Developer+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a>
-<h3 align="center">A passionate FullStack Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">A passionate Software Developer from Uzbekistan 🇺🇿</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theMirmakhmudov" alt="Mr.Mirmakhmudov" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
 
-- 🔭 I’m currently studying on **PDP School**
 
-- 🌱 I’m currently learning **Back-end Python Advanced**
-
-- 💬 Ask me about **Front-end , Back-end**
-
-- 📫 How to reach me **mr.mirmakhmmudov16112008@gmail.com**
-
-- ⚡ Fun fact **I like write coding**
+- 🎓 Currently studying at **PDP School**
+- 🌱 Learning **Advanced Python (Back-end)**
+- 💬 Ask me about **Front-end, Back-end, and Problem Solving**
+- 📫 Reach me at: **multicode.me@gmail.com**
+- ⚡ Fun fact: **I love writing code late at night 🌙**
 
 - <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" />
 
