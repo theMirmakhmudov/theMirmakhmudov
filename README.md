@@ -12,12 +12,8 @@
 - ⚡ Fun fact: **I love writing code late at night 🌙**
 
 - <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" />
-- [![committers.top badge](https://user-badge.committers.top/turkey/theMirmakhmudov.svg)](https://user-badge.committers.top/turkey/theMirmakhmudov)
 
-- [![committers.top badge](https://user-badge.committers.top/uzbekistan/theMirmakhmudov.svg)](https://user-badge.committers.top/uzbekistan/theMirmakhmudov)
-
-
-<br><br><br>
+<br><br>
 ## 🛠️ Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
