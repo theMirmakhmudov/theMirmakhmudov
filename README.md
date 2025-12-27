@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=F7F7F7&center=true&random=false&width=1080&height=200&lines=Hello+%F0%9F%91%8B%2C+I'm+Abdulmajid;I'm+Web+Developer+%F0%9F%8C%90;I'm+Front-end+Developer+%F0%9F%92%BB;I'm+Back-end+Developer+%E2%9C%94%EF%B8%8F" alt="Typing SVG" /></a>
+![Blue and White Architect LinkedIn Banner](https://github.com/user-attachments/assets/78a42024-d2fd-4682-b286-b301201c888e)
+
 <h3 align="center">A passionate Social & Software Engineer from Uzbekistan 🇺🇿</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
