@@ -6,8 +6,8 @@
 
 <br><br><br>
 
-- 🌱 Learning **Problem solving & Algorithms**
-- 💬 Ask me about **Front-end, Back-end, and Problem Solving**
+- 🌱 Learning **AI & System Design**
+- 💬 Ask me about **open-source projects, agentic-coding**
 - 📫 Reach me at: **multicode.me@gmail.com**
 - ⚡ Fun fact: **I love writing code late at night 🌙**
 - <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" />
