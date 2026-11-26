@@ -6,9 +6,9 @@
 
 <br><br>
 
-- 🎓 Studying Software Engineering at **GUET** (Guilin, China)
-- 💼 Building **FastAPI, Django, Next.js & Telegram automation systems**
-- 💬 Ask me about **Back-end, Full-stack, Docker, and System Design**
+- 🎓 Studying CS at **GUET** (Guilin, China)
+- 💼 Building **AI systems, automations, APIs, and skills**
+- 💬 Ask me about **Backend, Agentic coding, and System Design**
 - 📫 Reach me at: **[multicode.me@gmail.com](mailto:multicode.me@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/themirmakhmudov/)** · **[Telegram](https://t.me/multicoders)**
 - ⚡ Motto: **Impossible is possible**
 
@@ -31,10 +31,10 @@
 <br>
 
 <div align="center">
-  <img width="410" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=theMirmakhmudov&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=theMirmakhmudov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="410" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=theMirmakhmudov&count_private=true&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=theMirmakhmudov&count_private=true&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&ring_color=3fb950&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br><br><br>
