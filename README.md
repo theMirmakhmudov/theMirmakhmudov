@@ -1,75 +1,140 @@
-![Blue and White Architect LinkedIn Banner](https://github.com/user-attachments/assets/78a42024-d2fd-4682-b286-b301201c888e)
+<div align="center">
 
-<h3 align="center">A passionate Social & Software Engineer from Uzbekistan 🇺🇿</h3>
+![Mirmakhmudov Abdulmajid — Software Engineer](https://github.com/user-attachments/assets/78a42024-d2fd-4682-b286-b301201c888e)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1>Hi, I'm Mirmakhmudov Abdulmajid</h1>
 
-<br><br><br>
+<p>
+  <strong>Backend &amp; Full-Stack Software Engineer</strong> · Studying at <strong>GUET</strong> (Guilin, China) · From <strong>Uzbekistan</strong> 🇺🇿<br/>
+  Building production Python backends, payment &amp; Telegram automation systems, and full-stack TypeScript web &amp; desktop apps.
+</p>
 
-- 🌱 Learning **AI & System Design**
-- 💬 Ask me about **open-source projects, agentic-coding**
-- 📫 Reach me at: **multicode.me@gmail.com**
-- ⚡ Fun fact: **I love writing code late at night 🌙**
-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" />
-
-<br><br>
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,bootstrap,figma,linux,ubuntu,nodejs,postgres,sqlite,react,vite,django,fastapi,sass,python,linkedin,codepen,pycharm,visualstudio,htmx,idea,jquery,npm,stackoverflow" />
+<p>
+  <a href="https://www.linkedin.com/in/themirmakhmudov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/multicoders">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:multicode.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<br><br><br>
-
-## ⚡ Stats ⚡
-
-<br>
-
-<div align="center">
-  <img width="410" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=theMirmakhmudov&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=theMirmakhmudov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br><br><br>
+---
 
-## 🔥 Top Respositories
+### About Me
+
+- Building scalable APIs and automation systems with **FastAPI**, **Django REST Framework**, **PostgreSQL**, **Redis**, and **Docker**.
+- Shipping full-stack interfaces and desktop clients with **Next.js**, **React**, **TypeScript**, and **Electron**.
+- Focused on clean architecture, practical developer tooling, and reliable production deployments.
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theMirmakhmudov/autopay-api"><strong>autopay-api</strong></a><br/>
+      Automated Telegram payment detection and webhook API for HUMO and CardXabar notifications.<br/><br/>
+      <code>Python</code> <code>FastAPI</code> <code>Webhooks</code> <code>Telegram Bot</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theMirmakhmudov/ydtt-backend"><strong>ydtt-backend</strong></a><br/>
+      Backend API for YDTT (Unified State Education System) with Alembic migrations and Docker deployment.<br/><br/>
+      <code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Alembic</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theMirmakhmudov/doctor-booking-api"><strong>doctor-booking-api</strong></a><br/>
+      RESTful API for doctor appointment scheduling, JWT auth, OpenAPI docs, and clinic management.<br/><br/>
+      <code>Python</code> <code>Django</code> <code>DRF</code> <code>PostgreSQL</code> <code>JWT</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theMirmakhmudov/metsenat-api"><strong>metsenat-api</strong></a><br/>
+      Student sponsorship and scholarship management REST API built with Django REST Framework.<br/><br/>
+      <code>Python</code> <code>Django</code> <code>DRF</code> <code>REST API</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theMirmakhmudov/ideal-market"><strong>ideal-market</strong></a> &amp; <a href="https://github.com/theMirmakhmudov/ideal-market-admin"><strong>ideal-market-admin</strong></a><br/>
+      Retail POS web application paired with a multi-database Django admin dashboard for store chains.<br/><br/>
+      <code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>Multi-DB</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theMirmakhmudov/fastapi-task-manager"><strong>fastapi-task-manager</strong></a><br/>
+      Task management REST API with FastAPI, JWT authentication, Docker, and GitHub Actions CI.<br/><br/>
+      <code>Python</code> <code>FastAPI</code> <code>JWT</code> <code>Docker</code> <code>CI/CD</code>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/theMirmakhmudov/DjangoForms">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoForms&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/DjangoTemplate">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=DjangoTemplate&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/TODO">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=TODO&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/Metsenat-API">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=Metsenat-API&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/Doctor-Booking-API">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=Doctor-Booking-API&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/TGUI-Apps">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=theMirmakhmudov&repo=TGUI-Apps&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-  </a>
+  <strong>Open-Source Guides &amp; Tools:</strong>
+  <a href="https://github.com/theMirmakhmudov/fastapi-guide">fastapi-guide</a> ·
+  <a href="https://github.com/theMirmakhmudov/python-oop-guide">python-oop-guide</a> ·
+  <a href="https://github.com/theMirmakhmudov/python-config-templates">python-config-templates</a> ·
+  <a href="https://github.com/theMirmakhmudov/elonchi-bot">elonchi-bot</a>
 </p>
 
-<br><br><br>
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theMirmakhmudov&theme=2077" />
-</p>
+### Tech Stack
 
-<p align="center">
-  <img src="https://github.com/theMirmakhmudov/theMirmakhmudov/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,postgres,redis,sqlite,docker,linux,nginx,git,github,githubactions&theme=dark&perline=13" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,postgres,redis,sqlite,docker,linux,nginx,git,github,githubactions&theme=light&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,postgres,redis,sqlite,docker,linux,nginx,git,github,githubactions&perline=13" alt="Backend and DevOps stack" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,electron,html,css,vscode,pycharm,figma&theme=dark&perline=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,electron,html,css,vscode,pycharm,figma&theme=light&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,electron,html,css,vscode,pycharm,figma&perline=12" alt="Frontend and tooling stack" />
+</picture>
+
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=theMirmakhmudov&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=theMirmakhmudov&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=theMirmakhmudov&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=theMirmakhmudov&hide_border=true&theme=github-dark-blue&background=0d1117" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=theMirmakhmudov&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=theMirmakhmudov&hide_border=true&theme=github-dark-blue&background=0d1117" alt="GitHub Streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&size_weight=0.5&count_weight=0.5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&hide_border=true&theme=default&size_weight=0.5&count_weight=0.5" />
+  <img height="150" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theMirmakhmudov/theMirmakhmudov/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theMirmakhmudov/theMirmakhmudov/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/theMirmakhmudov/theMirmakhmudov/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</picture>
+
+</div>
