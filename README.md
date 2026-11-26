@@ -11,7 +11,7 @@
 - 💬 Ask me about **Backend, Agentic coding, and System Design**
 - 📫 Reach me at: **[multicode.me@gmail.com](mailto:multicode.me@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/themirmakhmudov/)** · **[Telegram](https://t.me/multicoders)**
 - ⚡ Motto: **Impossible is possible**
-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov)
+- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" alt="Visitor Count" />
 
 <br><br>
 
@@ -31,7 +31,8 @@
   <img width="410" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=theMirmakhmudov&count_private=true&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=3fb950&fire=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&border_radius=10" alt="streak stats" />
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=theMirmakhmudov&count_private=true&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&ring_color=3fb950&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img height="185" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theMirmakhmudov&hide=HTML&langs_count=8&layout=compact&card_width=380&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theMirmakhmudov&theme=github_dark&utcOffset=8" alt="productive time" />
 </div>
 
 <br><br><br>
@@ -39,24 +40,13 @@
 ## 🔥 Top Repositories
 
 <p align="center">
-  <a href="https://github.com/theMirmakhmudov/autopay-api">
-    <img width="278" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=autopay-api&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/ydtt-backend">
-    <img width="278" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=ydtt-backend&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/doctor-booking-api">
-    <img width="278" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=doctor-booking-api&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/metsenat-api">
-    <img width="278" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=metsenat-api&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/ideal-market">
-    <img width="278" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=ideal-market&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" />
-  </a>
-  <a href="https://github.com/theMirmakhmudov/fastapi-task-manager">
-    <img width="278" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=fastapi-task-manager&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" />
-  </a>
+  <a href="https://github.com/theMirmakhmudov/autopay-api"><img width="265" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=autopay-api&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" alt="autopay-api" /></a>
+  <a href="https://github.com/theMirmakhmudov/ydtt-backend"><img width="265" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=ydtt-backend&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" alt="ydtt-backend" /></a>
+  <a href="https://github.com/theMirmakhmudov/doctor-booking-api"><img width="265" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=doctor-booking-api&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" alt="doctor-booking-api" /></a>
+  <br/>
+  <a href="https://github.com/theMirmakhmudov/metsenat-api"><img width="265" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=metsenat-api&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" alt="metsenat-api" /></a>
+  <a href="https://github.com/theMirmakhmudov/ideal-market"><img width="265" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=ideal-market&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" alt="ideal-market" /></a>
+  <a href="https://github.com/theMirmakhmudov/fastapi-task-manager"><img width="265" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=theMirmakhmudov&repo=fastapi-task-manager&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&border_radius=10" alt="fastapi-task-manager" /></a>
 </p>
 
 <br><br><br>
