@@ -4,13 +4,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br><br>
+<br>
 
 - 🎓 Studying CS at **GUET** (Guilin, China)
 - 💼 Building **AI systems, automations and APIs**
 - 💬 Ask me about **Backend, Agentic coding, and System Design**
 - 📫 Reach me at: **[multicode.me@gmail.com](mailto:multicode.me@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/themirmakhmudov/)** · **[Telegram](https://t.me/multicoders)**
 - ⚡ Motto: **Impossible is possible**
+
 - <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=theMirmakhmudov.theMirmakhmudov" alt="Visitor Count" />
 
 <br><br>
