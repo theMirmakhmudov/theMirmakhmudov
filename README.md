@@ -7,7 +7,7 @@
 <br><br>
 
 - 🎓 Studying CS at **GUET** (Guilin, China)
-- 💼 Building **AI systems, automations, APIs, and skills**
+- 💼 Building **AI systems, automations and APIs**
 - 💬 Ask me about **Backend, Agentic coding, and System Design**
 - 📫 Reach me at: **[multicode.me@gmail.com](mailto:multicode.me@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/themirmakhmudov/)** · **[Telegram](https://t.me/multicoders)**
 - ⚡ Motto: **Impossible is possible**
